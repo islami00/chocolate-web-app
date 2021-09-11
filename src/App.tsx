@@ -1,11 +1,13 @@
 import React from "react";
-import "./App.css";
+import { Loading } from "./components/Loading";
+import "./styles/index.css";
 
 function App() {
   return (
-    <>
-      <h1>Hi there</h1>
-    </>
+    <main className='main-wrap'>
+      {/* while some other stuff, do:*/}
+      <Loading message ='Welcome to chocolate'/>
+    </main>
   );
 }
 
