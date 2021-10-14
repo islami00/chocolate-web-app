@@ -10,9 +10,8 @@
   "settings": {
     "npm-intellisense.recursivePackageJsonLookup": true,
     "prettier.endOfLine": "lf",
-    
+    "npm.packageManager": "npm",
 
-    
     // These are all my auto-save configs
     "editor.formatOnSave": true,
     // turn it off for JS and JSX, we will do this via eslint
