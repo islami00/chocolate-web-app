@@ -9,7 +9,7 @@ function LandingContent() {
         Bringing triple-layered protection to Web 3.0</p>
         <a href='/projects' className='btn'>Explore Projects</a>
       </section>
-        <img src={ChocolateRedBig} alt="A big Chocolate bar with a red wrapper!" />
+        <section><img src={ChocolateRedBig} alt="A big Chocolate bar with a red wrapper!" /></section>
     </main>
   )
 }
