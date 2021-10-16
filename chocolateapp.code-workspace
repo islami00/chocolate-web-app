@@ -3,8 +3,11 @@
     {
       "path": "../chocolate-front-end"
     },
+    // {
+    //   "path": "../chocolate-web-app"
+    // }
     {
-      "path": "../chocolate-web-app"
+      "path": "../githubtest"
     }
   ],
   "settings": {
@@ -39,7 +42,8 @@
       "source.organizeImports": true
     },
 
-    "js/ts.implicitProjectConfig.checkJs": true
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "liveServer.settings.multiRootWorkspaceName": "githubtest"
   },
   "extensions": {
     "recommendations": ["sysoev.language-stylus", "jpoissonnier.vscode-styled-components", "humao.rest-client"]
